@@ -11,7 +11,7 @@ const Home = () => {
       </div>
       <div className={styles.Home__heading2}>
         <p >
-           Creative <span> Web Developer </span> 
+           I am a Creative <span> Web Developer </span> 
         </p>
      
       </div>
