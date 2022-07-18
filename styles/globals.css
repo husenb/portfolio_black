@@ -14,3 +14,25 @@ a {
 * {
   box-sizing: border-box;
 }
+.App{
+  background-color: black;
+}
+body {
+  color: white;
+  font-family: Arial;
+  }
+  *
+  {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+  }
+  :root
+  {
+    --gray-black:#222;
+    --main-color:#eb4a4c;
+    --secondary-color:#9b3132;
+    --gray:#8a8a8a;
+  
+  }
